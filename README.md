@@ -1,3 +1,3 @@
 # crimson-fonts
 
-User for Stephanie De Bruijn
+Use for Stephanie De Bruijn
